@@ -1,0 +1,274 @@
+.red-one{
+	background-color: #721129;
+	color: #ffffff;
+}
+
+.box{
+	background-color: #8e1533;
+	
+}
+
+.perama > div > h1{
+	/* PERAMA IBN 2021 */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 100px;
+
+
+
+color: #FFFFFF;
+-webkit-text-stroke-width: 2.5px;
+-webkit-text-stroke-color: #721129;
+
+text-shadow: 0px 15px 7px rgba(0, 0, 0, 0.5);
+
+}
+
+
+@media screen and (max-width: 992px) {
+.perama > div > h1{
+	/* PERAMA IBN 2021 */
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 70px;
+
+text-align: center;
+
+color: #FFFFFF;
+-webkit-text-stroke-width: 2.5px;
+-webkit-text-stroke-color: #721129;
+
+text-shadow: 0px 15px 7px rgba(0, 0, 0, 0.5);
+
+}
+
+}
+
+
+.perama > div > h3{
+	/* Pemilu Raya Mahasiswa Institut Bisnis Nusantara */
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 43px;
+line-height: 165%;
+/* or 71px */
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 5px 7px rgba(0, 0, 0, 0.5);
+
+}
+
+@media screen and (max-width: 992px){
+.perama > div > h3{
+	/* Pemilu Raya Mahasiswa Institut Bisnis Nusantara */
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 165%;
+/* or 71px */
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 5px 7px rgba(0, 0, 0, 0.5);
+
+}
+}
+
+.calon > div > h1{
+	/* DAFTAR CALON PRESIDEN MAHASISWA */
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 165%;
+/* or 94px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+
+text-shadow: 0px 15px 7px rgba(0, 0, 0, 0.5);
+
+}
+
+@media screen and (max-width: 992px){
+.calon > div > h1{
+	/* DAFTAR CALON PRESIDEN MAHASISWA */
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 165%;
+/* or 94px */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+
+text-shadow: 0px 15px 7px rgba(0, 0, 0, 0.5);
+
+}
+}
+
+
+.calon > div > h3{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 165%;
+/* or 71px */
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 5px 7px rgba(0, 0, 0, 0.5);
+}
+
+.paslon > div > h1{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 100px;
+line-height: 165%;
+/* or 71px */
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 5px 7px rgba(0, 0, 0, 0.5);
+}
+
+.paslon > div > h3{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 165%;
+/* or 71px */
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 5px 7px rgba(0, 0, 0, 0.5);
+}
+
+.paslon > div > p{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 165%;
+/* or 71px */
+text-align: left;
+
+color: #FFFFFF;
+
+text-shadow: 0px 5px 7px rgba(0, 0, 0, 0.5);
+}
+
+.misi > h1{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 50px;
+line-height: 165%;
+/* or 71px */
+text-align: left;
+
+color: #FFFFFF;
+
+text-shadow: 0px 5px 7px rgba(0, 0, 0, 0.5);
+}
+
+.misi > p{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 165%;
+/* or 71px */
+text-align: left;
+
+color: #FFFFFF;
+
+text-shadow: 0px 5px 7px rgba(0, 0, 0, 0.5);
+}
+
+.program{
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 165%;
+/* or 71px */
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 5px 7px rgba(0, 0, 0, 0.5);
+}
+
+.unggulan{
+background-color: #ffff;
+
+}
+
+.unggulan > p{
+text-align: center;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 165%;
+color: #721129;
+
+}
+
+.hima{
+background-color: #721129;
+padding: 5px 15px 5px 15px;
+border-radius: 30px;
+}
+
+.hima > h2{
+text-align: center;
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 165%;
+color: #ffff;
+
+}
+
+
+
+.gallery{
+	padding: 80px 0px;
+}
+img{
+	max-width: 100%;
+}
+.gallery img{
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0px 0px 15px rgba(0,0,0,0.3);
+	cursor: pointer;
+}
+#gallery-popup .modal-img{
+	width: 100%;
+}
